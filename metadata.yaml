@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5864'
     url: http://www.gutenberg.org/2009/agents/5864
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15118#The-Narrative-of-Lunsford-Lane-Formerly-of-Raleigh-N.C.--13-Embracing-an-account-of-his-early_
 gutenberg_issued: '2005-02-21'
 gutenberg_type: Text
 identifiers:
