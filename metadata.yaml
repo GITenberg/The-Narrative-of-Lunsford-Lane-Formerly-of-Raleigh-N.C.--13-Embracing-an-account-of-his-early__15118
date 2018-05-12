@@ -1,0 +1,34 @@
+_repo: The-Narrative-of-Lunsford-Lane-Formerly-of-Raleigh-N.C.--13-Embracing-an-account-of-his-early__15118
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lane, Lunsford
+    birthdate: 1803
+    gutenberg_agent_id: '5864'
+    url: http://www.gutenberg.org/2009/agents/5864
+description: ''
+gutenberg_issued: '2005-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Raleigh (N.C.) -- History -- 19th century'
+- !lcc 'E300'
+- !lcsh 'African Americans -- North Carolina -- Biography'
+- !lcsh 'Lane, Lunsford, 1803-'
+- !lcsh 'Slaves -- North Carolina -- Biography'
+- !lcsh 'Slaves'' writings, American'
+- !lcsh 'Slavery -- North Carolina -- History -- 19th century'
+- !lcsh 'Freedmen -- United States -- Biography'
+title: "The Narrative of Lunsford Lane, Formerly of Raleigh, N.C.\r\nEmbracing an\
+  \ account of his early life, the redemption by purchase of himself and family from\
+  \ slavery, and his banishment from the place of his birth for the crime of wearing\
+  \ a colored skin"
+url: http://www.gutenberg.org/ebooks/15118
